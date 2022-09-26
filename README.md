@@ -42,7 +42,6 @@ It was my first time using different images for different media sizes
   <img src="./images/mobile/image-transform.jpg" alt="" />
 </picture>
 ```
-
 ### Continued development
 
 Propably a lot of space for improvement, especially in minimizing the amount of css.
