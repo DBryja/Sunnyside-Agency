@@ -5,7 +5,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
