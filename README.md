@@ -16,12 +16,11 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ### Screenshot
 
 ![](./DBryja_SunnysideAgency_Desktop.png)
-![](./DBryja_SunnysideAgency_Mobile.png)
 
 ### Links
 
-- Solution URL: [https://github.com/DBryja/Sunnyside-Agency.git]https://github.com/DBryja/Sunnyside-Agency.git]
-- Live Site URL: [https://dbryja.github.io/Sunnyside-Agency/]https://dbryja.github.io/Sunnyside-Agency/
+- Solution URL: [https://github.com/DBryja/Sunnyside-Agency.git]
+- Live Site URL: [https://dbryja.github.io/Sunnyside-Agency/]
 
 ## My process
 
