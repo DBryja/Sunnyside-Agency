@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap");
 .desktop {
   display: none;
 }
@@ -9,3 +10,84 @@ split 2 sekcje uklad
 
 split 3
 split 4 */
+:root {
+  --red-300: hsl(7, 99%, 70%);
+  --yellow-500: hsl(51, 100%, 49%);
+  --graphic-text-color: hsl(167, 40%, 24%);
+  --photography-text-color: hsl(198, 62%, 26%);
+  --footer-text-color: hsl(168, 34%, 41%);
+
+  --dark-blue-900: hsl(212, 27%, 19%);
+  --gray-blue-600: hsl(213, 9%, 39%);
+  --gray-blue-500: hsl(232, 10%, 55%);
+  --gray-blue-400: hsl(210, 4%, 67%);
+  --white: hsl(0, 0%, 100%);
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.8rem;
+  background-color: var(--white);
+  font-family: Barlow, sans-serif;
+  font-weight: 400;
+  color: var(--gray-blue-500);
+}
+body * {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.description a {
+  font-family: "Fraunces", serif;
+  color: var(--dark-blue-900);
+  font-weight: 900;
+}
+
+.description a {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+}
+
+.clients h4 {
+  font-weight: 900;
+  color: var(--gray-blue-400);
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.client-card p {
+  color: var(--gray-blue-600);
+  font-weight: 600;
+}
+.client-card img {
+  border-radius: 50%;
+}
+.client-title {
+  color: var(--gray-blue-400);
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  display: inline-block;
+}
+
+footer,
+footer a {
+  text-decoration: none;
+  color: var(--footer-text-color);
+}
